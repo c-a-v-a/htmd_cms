@@ -15,7 +15,7 @@ std::string Htmd::html(std::string content) {
     std::string output = "";
 
     for (auto node : nodes)
-        output += node->html();
+        output += node->html() += "\n";
 
     return output;
 }
