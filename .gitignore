@@ -13,7 +13,7 @@ src/lib/CMakeCache.txt
 src/lib/CMakeFiles
 src/lib/cmake_install.cmake
 src/lib/htmd_autogen
-src/lib/libhtmd.a
+src/lib/libhtmd.so
 src/lib/Makefile
 .direnv
 .envrc

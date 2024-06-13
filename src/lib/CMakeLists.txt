@@ -1,4 +1,4 @@
-qt_add_library(htmd STATIC
+qt_add_library(htmd SHARED
     htmd.cpp
     rules.cpp
     node/node.cpp
